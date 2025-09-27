@@ -1,0 +1,26 @@
+# check missing values per column
+# show only columns with missing values
+# % of missing values
+# check class distribution
+# Collapse target variable (0 vs 1+2)
+# One-hot encode Sex (0 = female, 1 = male in BRFSS)
+# BMI categories
+
+# General health score
+# (GenHlth: 1=Excellent, 5=Poor; MentHlth, PhysHlth are 1-30 days)
+
+# Diet quality score
+# Simply sum Fruits + Veggies (both are binary 0/1)
+
+#  Age categories
+#  Education mapping
+# Income mapping
+
+# One-hot encode all categorical features
+# Check class distribution again
+
+# create a cormobidtiy score 
+# Bin MentHlth & PhysHlth (0=none, 1–10=mild, 11–20=moderate, 21–30=severe)
+# Drop low-variance columns
+
+#columns dropped

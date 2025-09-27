@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+ads_dataset.csv
+assignment10.ipynb
